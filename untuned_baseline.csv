@@ -1,0 +1,6 @@
+model,mean_rmse,std_rmse
+Random Forest,41.497,0.316
+SVR,41.884,0.502
+Ridge,44.705,0.325
+Lasso,44.706,0.324
+SLTS+LASSO (hybrid),49.942,0.462

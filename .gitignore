@@ -1,0 +1,6 @@
+data/train_FD*.txt
+data/test_FD*.txt
+data/RUL_FD*.txt
+Turbofan-Engine-Degradation/
+__pycache__/
+*.pyc
